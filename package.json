@@ -1,0 +1,17 @@
+{
+  "name": "readme.md",
+  "version": "1.0.0",
+  "description": "npm environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Cherish Moore",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "index.js": "0.0.3",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {}
+}
